@@ -6,7 +6,7 @@
 
 ## 🏆 Github Trophy
 
-[![iamthe-nerdyDev's trophies](https://github-profile-trophy.vercel.app?username=iamthe-nerdyDev&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![iamthe-nerdyDev's trophies](https://github-profile-trophy.vercel.app?username=iamthe-nerdyDev)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💻 Most Used Languages
 
