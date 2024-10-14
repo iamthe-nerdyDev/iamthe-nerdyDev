@@ -1,6 +1,5 @@
-### 👋 Hi there, I'm Adedeji Morifeoluwa
+### 👋 Hi there, I'm Momoreoluwa Adedeji
 
-- 🔭 I’m currently a student at Federal University of Agriculture, Abeokuta
 - 📫 How to reach me: @iamthe_nerdyDev on all socials :-)
 
 ## 🏆 Github Trophy
