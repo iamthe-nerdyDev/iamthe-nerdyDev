@@ -1,7 +1,6 @@
 ### 👋 Hi there, I'm Adedeji Morifeoluwa
 
 - 🔭 I’m currently a student at Federal University of Agriculture, Abeokuta
-- 🌱 I’m currently learning blockchain development
 - 📫 How to reach me: @iamthe_nerdyDev on all socials :-)
 
 ## 🏆 Github Trophy
